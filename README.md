@@ -16,7 +16,7 @@
 
 ## 🔗 Links
 
-- **Repository URL:**
+- **Repository URL:** https://github.com/drake-full-stack/lab01-portfolio-template-haris-hm
 - **Live Site URL:**
 
 ## 📝 Reflection
@@ -27,7 +27,7 @@ After completing this lab, write a few sentences about:
 - What did you learn about semantic HTML?
 - How do you plan to expand this portfolio?
 
-[Write your reflection here]
+The most challenging part about this lab was figuring out how to do the layouts for the pages in plain HTML. For example, on the portfolio page, I wanted the headshot and intro paragraph side-by-side, so I put them in a table.
 
 ---
 
